@@ -1,0 +1,11 @@
+/Debug/
+/Release/
+/tags
+*~
+*.swp
+.vimrc
+.vscode/settings.json
+a.out
+misc_notes.txt
+theorem
+
